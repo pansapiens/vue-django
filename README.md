@@ -22,9 +22,10 @@ $ npm install -g vue-cli
 ```
 You might want to use ```sudo``` if you encounter permissions error
 ```bash
-$ vue init NdagiStanley/vue-django my-project
+$ vue init 'NdagiStanley/vue-django#dist' my-project
 $ cd my-project
 $ npm install
+$ chmod +x ./deploy.sh
 ```
 
 Secondly, have *Python* installed and preferably create a virtual environment for the project.

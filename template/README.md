@@ -24,7 +24,7 @@ npm run e2e
 npm test
 
 # deploy
-.deploy.sh
+./deploy.sh
 ```
 
 For detailed explanation on how things work, checkout the [guide](https://github.com/vuejs-templates/webpack#vue-webpack-boilerplate) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
